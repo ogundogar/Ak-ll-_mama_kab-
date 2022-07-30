@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME  "ogun"
-#define IO_KEY       "aio_LBur723JPkGoNO7DJz0ktjALtGXN"
+#define IO_USERNAME  "-----"
+#define IO_KEY       "-----"
 
 /******************************* WIFI **************************************/
 
@@ -18,8 +18,8 @@
 //   https://www.adafruit.com/product/4000
 //   - Adafruit AirLift Breakout -> https://www.adafruit.com/product/4201
 
-#define WIFI_SSID "Nokia 6"
-#define WIFI_PASS "BJk.1903"
+#define WIFI_SSID "----"
+#define WIFI_PASS "----"
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
